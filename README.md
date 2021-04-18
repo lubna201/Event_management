@@ -3,4 +3,6 @@
 
 ## mongodb used.
 
-[Live site link](https://rise-and-shine-grocery.web.app)
+[Heroku site link](https://guarded-island-57940.herokuapp.com/)
+
+[Live site link](https://guarded-island-57940.herokuapp.com/)
