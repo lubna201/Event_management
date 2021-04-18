@@ -5,4 +5,4 @@
 
 [Heroku site link](https://guarded-island-57940.herokuapp.com/)
 
-[Live site link](https://guarded-island-57940.herokuapp.com/)
+[Live site link](https://sl-event.web.app)
